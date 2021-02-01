@@ -1,8 +1,8 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=WilliamTuominiemi&theme=vue-dark&show_icons=true alt=WilliamTuominiemi /> </p>
 
 <p align="center"> 
-    <a align="center" href="https://github.com/WilliamTuominiemi/StudyWebApp">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamTuominiemi&repo=StudyWebApp&theme=vue-dark" />
+    <a align="center" href="https://github.com/WilliamTuominiemi/Steam_Market_Tracker">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamTuominiemi&repo=Steam_Market_Tracker&theme=vue-dark" />
     </a>
 </p>
 
