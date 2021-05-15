@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/williamtoptoter" target="blank"><img src="https://img.shields.io/twitter/follow/williamtoptoter?logo=twitter&style=for-the-badge" alt="williamtoptoter" /></a> </p>
 
-- 🔭 I’m currently working on a **NFT trading platform**
+- 🔭 I’m currently working on a **YouTube livestream chat bot**
 
 - 🌱 I’m currently learning **Node.js**
 
