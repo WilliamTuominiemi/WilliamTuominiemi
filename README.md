@@ -1,4 +1,4 @@
-# <img height="40" src="https://media.giphy.com/media/26FmPUB5MInUrIjvy/giphy.gif"/> 𝐖𝐢𝐥𝐥𝐢𝐚𝐦 𝐓𝐮𝐨𝐦𝐢𝐧𝐢𝐞𝐦𝐢
+# <img height="40" src="https://media.giphy.com/media/xUPGcqFkj0v3uGsm1G/source.gif"/> 𝐖𝐢𝐥𝐥𝐢𝐚𝐦 𝐓𝐮𝐨𝐦𝐢𝐧𝐢𝐞𝐦𝐢
 <h3 >A developer from Finland</h3>
 
 
@@ -17,25 +17,25 @@
 # ⚡ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
 <p align="left">  
   <a href="https://nodejs.org" target="_blank"> 
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a> 
   <a href="https://unity.com/" target="_blank"> 
     <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> 
   </a> 
   <a href="https://www.arduino.cc/" target="_blank">
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> 
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+  </a> 
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+  </a> 
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
   </a> 
 </p>
 
