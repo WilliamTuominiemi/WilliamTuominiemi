@@ -6,7 +6,7 @@
 
 - 💻 My website https://williamtuominiemi.netlify.app/
 
-- 🔭 I’m currently working on a **YouTube livestream chat bot**
+- 🔭 I’m currently working on a **stuff**
 
 - 🌱 I’m currently learning **React**
 
