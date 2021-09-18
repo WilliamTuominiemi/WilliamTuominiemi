@@ -1,8 +1,4 @@
 # <img height="40" src="https://media.giphy.com/media/8Gg9ptllXcAvvL2Zhm/giphy.gif"/> 𝐖𝐢𝐥𝐥𝐢𝐚𝐦 𝐓𝐮𝐨𝐦𝐢𝐧𝐢𝐞𝐦𝐢
-<h3 >A developer from Finland</h3>
-
-
-<p align="left"> <a href="https://twitter.com/williamtoptoter" target="blank"><img src="https://img.shields.io/twitter/follow/williamtoptoter?logo=twitter&style=for-the-badge" alt="williamtoptoter" /></a> </p>
 
 - 💻 My website https://williamtuominiemi.netlify.app/
 
