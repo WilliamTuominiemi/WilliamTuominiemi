@@ -1,14 +1,10 @@
 # <img height="40" src="https://media.giphy.com/media/8Gg9ptllXcAvvL2Zhm/giphy.gif"/> 𝐖𝐢𝐥𝐥𝐢𝐚𝐦 𝐓𝐮𝐨𝐦𝐢𝐧𝐢𝐞𝐦𝐢
 
-- 💻 My website https://williamtuominiemi.netlify.app/
-
 - 🔭 I’m currently working on a **stuff**
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **william.m.tuominiemi@gmail.com**
-
-- ⚡ Fun fact **I have done 2 scores**
 
 # ⚡ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
 <p align="left">  
