@@ -9,10 +9,11 @@
 
 ## 💫 𝕊𝕂𝕀𝕃𝕃𝕊
 
--   🌐 JavaScript · TypeScript · C#
--   🛢 MongoDB
+-   🌐 JavaScript · TypeScript · Python · C# 
 -   🧩 Node.js · Next.js · React
+-   🛢 MongoDB
 -   🚧 Git
+-   🤖 TensorFlow
 
 ## 📊 𝕊𝕋𝔸𝕋𝕊
 
