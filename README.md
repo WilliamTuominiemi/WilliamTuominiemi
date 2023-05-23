@@ -16,4 +16,4 @@
 
 ## 📊 𝕊𝕋𝔸𝕋𝕊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamtuominiemi&theme=dark&show_icons=true&locale=en)![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=williamtuominiemi&theme=dark&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamtuominiemi&theme=dark&show_icons=true&locale=en)
