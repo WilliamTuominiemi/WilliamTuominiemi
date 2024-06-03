@@ -7,14 +7,9 @@
     <img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-## 💫 𝕊𝕂𝕀𝕃𝕃𝕊
-
 -   🌐 JavaScript · TypeScript · Python · C# 
 -   🧩 Node.js · Next.js · React
--   🛢 MongoDB
+-   🛢 MongoDB · MySQL
 -   🚧 Git
 -   🤖 TensorFlow
 
-## 📊 𝕊𝕋𝔸𝕋𝕊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamtuominiemi&theme=dark&show_icons=true&locale=en)
