@@ -10,6 +10,6 @@
 -   🌐 JavaScript · TypeScript · Python · C# 
 -   🧩 Node.js · Next.js · React
 -   🛢 MongoDB · MySQL
+-   🤖 PyTorch · TensorFlow
 -   🚧 Git
--   🤖 TensorFlow
 
