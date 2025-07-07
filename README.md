@@ -1,4 +1,4 @@
--   🌐 JavaScript · TypeScript · Python · C++ · C# · Scala 
+-   🌐 JavaScript · TypeScript · Python · Rust · C++ · C# · Scala 
 -   🧩 Vue.js · Next.js · React
 -   🛢 MongoDB · MySQL · sqlite
 -   🤖 PyTorch · TensorFlow
