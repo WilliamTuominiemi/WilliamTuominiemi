@@ -1,6 +1,6 @@
 🌐 JavaScript · TypeScript · Python · Rust · C++ · C# · Scala 
 
-🧩 Vue.js · Next.js · React
+🧩 Vue · Next · React
 
 🛢 MongoDB · MySQL · sqlite
 
