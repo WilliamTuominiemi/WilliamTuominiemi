@@ -4,6 +4,8 @@
 
 🛢 MongoDB · MySQL · sqlite
 
+🧪 Vitest · Playwright
+
 🤖 PyTorch · TensorFlow
 
 🚧 Git · Linux
