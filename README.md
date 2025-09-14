@@ -8,4 +8,4 @@
 
 🤖 PyTorch · TensorFlow
 
-🚧 Git · Linux
+🚧 Git · Linux · Vim
