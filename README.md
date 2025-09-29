@@ -1,8 +1,8 @@
-🌐 JavaScript · TypeScript · Python · Rust · C++ · C# · Scala 
+🌐 TypeScript · Rust · C# · Python · Scala · C++
 
 🧩 Vue · Next · React
 
-🛢 MongoDB · MySQL · sqlite
+🛢 SQL, NoSQL
 
 🧪 Vitest · Playwright
 
