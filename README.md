@@ -2,7 +2,7 @@
 
 🧩 Vue · Next · React
 
-🛢 SQL, NoSQL
+🛢 SQL · NoSQL
 
 🧪 Vitest · Playwright
 
