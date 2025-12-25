@@ -1,11 +1,11 @@
-🌐 TypeScript · Rust · C# · Python · Scala · C++
+🌐 Rust · C++ · Python · TypeScript · C# · Scala 
+
+🚧 Git · Linux · Vim
+
+🤖 PyTorch · TensorFlow · Scikit
+
+🧪 Vitest · Playwright
 
 🧩 Vue · React
 
 🛢 SQL · NoSQL
-
-🧪 Vitest · Playwright
-
-🤖 PyTorch · TensorFlow
-
-🚧 Git · Linux · Vim
